@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Java badge](https://img.shields.io/badge/Java-Good-green)
+![Android badge](https://img.shields.io/badge/Android-Good-green)
+![HTML badge](https://img.shields.io/badge/HTML-Good-green)
