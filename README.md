@@ -29,5 +29,5 @@ Profile : [Notion Link](https://www.notion.so/7aec895149464fd1b9aeec9ed5909f21?p
 <div align=center>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <div style="width:100px;height:20px;background-color:white;padding-bottom:4px"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/visualstudiocode-icon.png" style="height:15px;float:left;margin:5px"><span style="color:black;font-weight:bold;font-family:Arial">VSCode</span></div>
+    <div style="width:100px;height:20px;background-color:white;padding-bottom:4px"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/visualstudiocode-icon.png" style="height:15px;float:left;margin:5px"/><span style="color:black;font-weight:bold;font-family:Arial">VSCode</span></div>
 </div>
