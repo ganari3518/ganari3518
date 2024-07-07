@@ -29,5 +29,6 @@ Profile : [Notion Link](https://www.notion.so/7aec895149464fd1b9aeec9ed5909f21?p
 <div align=center>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <br>
     <img src="https://ganari3518.github.io/web2/vs.png">
 </div>
