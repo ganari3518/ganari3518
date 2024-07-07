@@ -5,7 +5,7 @@ Profile : [Notion Link](https://www.notion.so/7aec895149464fd1b9aeec9ed5909f21?p
 
 ***
 
-<center style="font-size:20px;font-weight:bold;margin:10px">Languages</center>
+### Languages
 
 <div align=center>
 	<img src="https://img.shields.io/badge/java-BDBDBD?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -19,17 +19,13 @@ Profile : [Notion Link](https://www.notion.so/7aec895149464fd1b9aeec9ed5909f21?p
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<br>
-
-<center style="font-size:20px;font-weight:bold;margin:10px">Framework</center>
+### Framework
 <div align=center>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
-<br>
-
-<center style="font-size:20px;font-weight:bold;margin:10px">Tools</center>
+### Tools
 <div align=center>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
